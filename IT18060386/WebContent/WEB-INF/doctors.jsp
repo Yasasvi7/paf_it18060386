@@ -21,7 +21,7 @@
 <div class="row">
 <div class="col-6">
 
-<h1>Doctor Management v10</h1>
+<h1>Doctor Management </h1>
 <form id="formDoctor" name="formDoctor" method="post" action="doctors.jsp">
 Doctor code:
 <input id="drCode" name="drCode" type="text"
